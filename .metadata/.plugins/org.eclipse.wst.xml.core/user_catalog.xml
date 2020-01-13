@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <uri name="http://code.alibabatech.com/schema/dubbo" uri="file:///F:/淘淘商城资料/dubbo_yueshu/dubbo.xsd"/>
+  <uri name="http://www.springframework.org/schema/context" uri="file:///F:/淘淘商城资料/dubbo_yueshu/spring-context-4.2.xsd"/>
+</catalog>

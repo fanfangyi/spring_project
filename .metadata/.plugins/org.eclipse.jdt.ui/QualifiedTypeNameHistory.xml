@@ -1,18 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
-<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseBody"/>
 <fullyQualifiedTypeName name="com.taotao.service.ItemService"/>
-<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
-<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
 <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
-<fullyQualifiedTypeName name="java.io.Serializable"/>
-<fullyQualifiedTypeName name="java.lang.Override"/>
 <fullyQualifiedTypeName name="com.github.pagehelper.PageHelper"/>
 <fullyQualifiedTypeName name="com.taotao.pojo.TbItemExample"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.taotao.pojo.TbItem"/>
 <fullyQualifiedTypeName name="com.github.pagehelper.PageInfo"/>
 <fullyQualifiedTypeName name="com.taotao.common.pojo.EasyUIDataGridResult"/>
+<fullyQualifiedTypeName name="redis.clients.jedis.JedisPool"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="com.github.pagehelper.Page"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.alibaba.dubbo.config.annotation.Service"/>
+<fullyQualifiedTypeName name="com.taotao.mapper.TbItemCatMapper"/>
+<fullyQualifiedTypeName name="com.taotao.pojo.TbItemCatExample"/>
+<fullyQualifiedTypeName name="com.taotao.pojo.TbItemCatExample.Criteria"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.taotao.pojo.TbItemCat"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.taotao.common.pojo.EasyUITreeNode"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.ResponseBody"/>
+<fullyQualifiedTypeName name="com.taotao.service.ItemCatService"/>
 </qualifiedTypeNameHistroy>

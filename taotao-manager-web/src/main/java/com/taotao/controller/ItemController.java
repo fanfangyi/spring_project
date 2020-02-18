@@ -28,6 +28,7 @@ public class ItemController {
 	public EasyUIDataGridResult getItemList(int page,int rows)
 	{
 		EasyUIDataGridResult result = itemService.getItemList(page, rows);
+		System.out.println(result);
 		return result;
 	}
 }

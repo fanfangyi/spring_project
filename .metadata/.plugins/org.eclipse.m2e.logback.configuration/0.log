@@ -3918,3 +3918,92 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.github.pa
 2020-02-18 16:03:38,782 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s E:\Maven\apache-maven-3.3.9\conf\settings.xml clean tomcat7:run
 2020-02-18 16:03:53,392 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\project\spring\taotao-manager\taotao-manager-service
 2020-02-18 16:03:53,392 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s E:\Maven\apache-maven-3.3.9\conf\settings.xml clean install tomcat7:run -Dmaven.test.skip=true
+2020-02-18 16:07:01,294 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\project\spring_project\taotao-manager
+2020-02-18 16:07:01,297 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s E:\Maven\apache-maven-3.3.9\conf\settings.xml clean install tomcat7:run
+2020-02-18 16:07:39,276 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\project\spring_project\taotao-manager-web
+2020-02-18 16:07:39,277 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s E:\Maven\apache-maven-3.3.9\conf\settings.xml clean tomcat7:run
+2020-02-18 16:07:46,233 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\project\spring\taotao-manager\taotao-manager-service
+2020-02-18 16:07:46,233 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s E:\Maven\apache-maven-3.3.9\conf\settings.xml clean install tomcat7:run -Dmaven.test.skip=true
+2020-02-18 16:08:12,885 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-18 16:08:12,891 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-02-18 16:08:12,900 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-18 16:08:12,901 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-18 16:08:13,461 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-18 16:08:13,462 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-18 16:08:13,463 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-18 16:08:13,464 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-18 16:08:14,049 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\project\spring_project\taotao-manager
+2020-02-18 16:08:14,049 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s E:\Maven\apache-maven-3.3.9\conf\settings.xml install
+2020-02-18 16:08:36,775 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\project\spring\taotao-manager\taotao-manager-service
+2020-02-18 16:08:36,775 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s E:\Maven\apache-maven-3.3.9\conf\settings.xml install
+2020-02-18 16:08:39,548 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-18 16:08:39,559 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-02-18 16:08:39,561 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-18 16:08:39,562 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-18 16:08:51,907 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\project\spring\taotao-manager\taotao-manager-service
+2020-02-18 16:08:51,907 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s E:\Maven\apache-maven-3.3.9\conf\settings.xml install
+2020-02-18 16:08:54,678 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-18 16:08:54,679 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-18 16:08:54,679 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-18 16:08:54,679 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-18 16:10:32,282 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\project\spring_project\taotao-common
+2020-02-18 16:10:32,282 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s E:\Maven\apache-maven-3.3.9\conf\settings.xml install
+2020-02-18 16:10:34,786 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2020-02-18 16:10:34,805 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-18 16:10:34,805 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-18 16:10:34,806 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-18 16:10:34,806 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-18 16:11:41,457 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-02-18 16:12:20,256 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2020-02-18 16:12:20,272 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\project\spring\taotao-manager\taotao-manager-service
+2020-02-18 16:12:20,273 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s E:\Maven\apache-maven-3.3.9\conf\settings.xml clean install tomcat7:run -Dmaven.test.skip=true
+2020-02-18 16:12:50,854 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\project\spring\taotao-manager\taotao-manager-service
+2020-02-18 16:12:50,854 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s E:\Maven\apache-maven-3.3.9\conf\settings.xml clean install tomcat7:run -Dmaven.test.skip=true
+2020-02-18 16:17:11,222 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\project\spring_project\taotao-parent
+2020-02-18 16:17:11,222 [Worker-29] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s E:\Maven\apache-maven-3.3.9\conf\settings.xml install
+2020-02-18 16:17:18,924 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\project\spring_project\taotao-common
+2020-02-18 16:17:18,924 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s E:\Maven\apache-maven-3.3.9\conf\settings.xml install
+2020-02-18 16:17:21,379 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-18 16:17:21,380 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-18 16:17:21,381 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-18 16:17:21,381 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-18 16:17:29,209 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\project\spring_project\taotao-manager
+2020-02-18 16:17:29,210 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s E:\Maven\apache-maven-3.3.9\conf\settings.xml install
+2020-02-18 16:18:21,347 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\project\spring_project\taotao-manager-web
+2020-02-18 16:18:21,347 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s E:\Maven\apache-maven-3.3.9\conf\settings.xml install
+2020-02-18 16:18:24,508 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-18 16:18:24,509 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-18 16:18:24,510 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-18 16:18:24,510 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-18 16:31:31,758 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\project\spring\taotao-manager\taotao-manager-service
+2020-02-18 16:31:31,759 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s E:\Maven\apache-maven-3.3.9\conf\settings.xml clean install
+2020-02-18 16:32:58,820 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\project\spring\taotao-manager\taotao-manager-interface
+2020-02-18 16:32:58,820 [Worker-42] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s E:\Maven\apache-maven-3.3.9\conf\settings.xml install
+2020-02-18 16:33:01,666 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-18 16:33:01,667 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2020-02-18 16:33:01,669 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-18 16:33:01,670 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-18 16:33:01,673 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of taotao-manager-service
+2020-02-18 16:33:01,674 [Worker-30] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for taotao-manager-service
+2020-02-18 16:33:01,690 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-18 16:33:47,576 [Worker-44] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\project\spring\taotao-manager\taotao-manager-service
+2020-02-18 16:33:47,576 [Worker-44] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s E:\Maven\apache-maven-3.3.9\conf\settings.xml clean install
+2020-02-18 16:34:16,591 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\project\spring_project\taotao-manager-web
+2020-02-18 16:34:16,591 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s E:\Maven\apache-maven-3.3.9\conf\settings.xml clean tomcat7:run
+2020-02-18 16:34:40,627 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-webmvc/4.2.4.RELEASE/spring-webmvc-4.2.4.RELEASE-sources.jar
+2020-02-18 16:34:41,401 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-webmvc/4.2.4.RELEASE/spring-webmvc-4.2.4.RELEASE-sources.jar
+2020-02-18 16:34:41,496 [Worker-44] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-webmvc:4.2.4.RELEASE
+2020-02-18 16:34:41,876 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-18 16:34:41,876 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-18 16:34:41,877 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-18 16:34:41,878 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-18 16:34:59,493 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\project\spring_project\taotao-manager
+2020-02-18 16:34:59,493 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s E:\Maven\apache-maven-3.3.9\conf\settings.xml clean install tomcat7:run
+2020-02-18 16:37:25,223 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\project\spring_project\taotao-manager
+2020-02-18 16:37:25,223 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s E:\Maven\apache-maven-3.3.9\conf\settings.xml clean install tomcat7:run
+2020-02-18 16:38:05,882 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\project\spring_project\taotao-manager-web
+2020-02-18 16:38:05,882 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s E:\Maven\apache-maven-3.3.9\conf\settings.xml clean tomcat7:run
+2020-02-18 16:39:34,820 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\project\spring_project\taotao-manager
+2020-02-18 16:39:34,821 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests -s E:\Maven\apache-maven-3.3.9\conf\settings.xml clean install tomcat7:run
+2020-02-18 16:40:41,167 [Worker-44] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\project\spring_project\taotao-manager-web
+2020-02-18 16:40:41,167 [Worker-44] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -s E:\Maven\apache-maven-3.3.9\conf\settings.xml clean tomcat7:run

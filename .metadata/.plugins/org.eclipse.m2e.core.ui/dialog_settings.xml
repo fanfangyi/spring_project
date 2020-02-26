@@ -7,10 +7,10 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="taotao-manager"/>
-			<item value="com.taotao-parent"/>
-			<item value="taotao-common"/>
+			<item value="taotao-sso-web"/>
 			<item value="taotao-parent"/>
+			<item value="taotao-sso-service"/>
+			<item value="taotao-sso"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -50,6 +50,9 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\project\spring_project\taotao-content"/>
+			<item value="E:\project\spring_project"/>
+			<item value="E:\project\spring_project\taotao-manager\taotao-manager-pojo"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -81,7 +84,21 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="E:\project\fastdfs-client-java"/>
 			<item value="E:\project\spring_project"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenModuleWizardParentPage">
+		<list key="moduleName">
+			<item value="taotao-sso-service"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class PageController {
 	@RequestMapping("/")
 	public String showIndex(){
+		//可以加验证token
 		return "index";
 	}
 	@RequestMapping("/{page}")
